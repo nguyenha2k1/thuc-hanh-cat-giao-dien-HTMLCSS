@@ -1,0 +1,110 @@
+#box{
+	background-color: #f6f5f1;	
+	margin: auto;
+}
+.clr{clear: both;}
+#logo{
+	height: 71px;
+}
+#menu{
+	color: white;
+}
+#menu ul {
+	text-align: center;	
+	background: #4b9be0;
+	overflow: hidden;
+	margin: 0px;
+	margin-top: 25px;
+}
+#menu ul li{
+	display: inline-table;
+	width: 90px;
+	line-height: 50px;
+	float: left;
+
+}
+#menu ul li a{
+	color: white;
+	text-decoration: none;
+	display: block;
+	font-family: Arial;
+	font-size: 13px;
+	border-right: 1px solid white;
+}
+#menu ul li a:hover{
+	background-color: #222327;
+}
+#cot1{
+	background-color: blue;
+	float: left;
+	width: 65%;
+	height: 1000px;
+
+}
+#cot2{
+	background-color: red;
+	float: left;
+	width: 35%;
+	height: 1000px;
+}
+#cuoitrang{
+	background-color: black;
+	clear: left;
+	height: 60px;
+}
+#cot1 img{
+	max-width: 100%;
+	margin: auto;
+	margin-top: 60px;
+	display: block;
+}
+.two{
+	width: 45%;
+	float: left;
+	box-sizing: border-box;
+	margin-top: 50px;
+	margin-right: 5px;
+	font-size: 13.5px;
+	
+}
+.one{
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 0px;
+	text-align: left;
+	margin-top: 0px;
+}
+.normal{
+	font-family: Arial;
+	background-color: yellow;
+	width: 758px;
+	position: relative;
+	left: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
