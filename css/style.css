@@ -58,6 +58,9 @@
 	margin-top: 60px;
 	display: block;
 }
+#anhto{
+	height: 120px;
+}
 .two{
 	width: 45%;
 	float: left;
@@ -102,6 +105,7 @@
 .khoi22{
 	height: 140px;
 }
+
 .anh{
 	float: left;
 	width: 50%;
@@ -118,8 +122,8 @@
 h2{
 	text-align: center;
 	font-size: 17px;
-	padding-top: 10px;
-	padding-bottom: 0px;
+	padding-top: 250px;
+	padding-bottom: 0px; 
 }
 h3,p{
 	font-size: 13.5px;
