@@ -38,7 +38,7 @@
 	background-color: blue;
 	float: left;
 	width: 65%;
-	height: 1000px;
+	height: auto;
 
 }
 #cot2{
@@ -74,6 +74,7 @@
 	padding-left: 0px;
 	margin-top: -35px;
 
+
 }
 .box1{
 	margin: auto;
@@ -87,27 +88,32 @@
 
 .khoi2{
 	background-color: #c719d2;
-	width: 50%;
+	width: 48%;
 	float: left;
-	
-
 }
 .khoi3{
 	background-color: #19d24b;
-	width: 50%;
+	width: 52%;
 	float: left;
 }
 .khoi11{
-
+	height: 100px;
+}
+.khoi22{
+	height: 140px;
 }
 .anh{
 	float: left;
 	width: 50%;
+	margin-left: -40px;
+	margin-top: -35px;
 }
 .chu{
 	float: left;
-	width: 50%;
+	margin-top:25px;
+	margin-left: -42px;
 }
+
 
 h2{
 	text-align: center;
